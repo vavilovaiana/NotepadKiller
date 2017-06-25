@@ -29,7 +29,7 @@ public class NotepadKiller
             add(jScroll);
             setJMenuBar(jMenuBar);
 
-            setSize(500, 700);
+            setSize(600, 700);
             setVisible(true);
 
         }
