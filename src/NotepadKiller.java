@@ -23,7 +23,7 @@ public class NotepadKiller
             JFrame frame = new JFrame("Frame");
 
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-            setTitle("NotepadKiller");
+            setTitle("Notepad_Iana");
 
             jMenuBar.add(createFileMenu());
             add(jScroll);
